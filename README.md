@@ -6,3 +6,4 @@ List of cool collection ❄.
 - https://css-irl.info/drop-shadow-the-underrated-css-filter/
 - https://www.checklist.design/
 - https://github.com/jackocnr/intl-tel-input
+- https://vestacp.com/install/
