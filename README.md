@@ -7,3 +7,4 @@ List of cool collection ❄.
 - https://www.checklist.design/
 - https://github.com/jackocnr/intl-tel-input
 - https://vestacp.com/install/
+- https://openmoji.org/library/
