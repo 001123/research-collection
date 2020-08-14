@@ -10,4 +10,4 @@ List of cool collection ❄.
 - https://openmoji.org/library/
 
 Godot: 
- - https://www.youtube.com/watch?v=WXrGi6FmQeA
+ - (Creating a headless lobby server with Godot and MultiplayerEnet)[https://www.youtube.com/watch?v=WXrGi6FmQeA]
