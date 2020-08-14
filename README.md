@@ -9,5 +9,5 @@ List of cool collection ❄.
 - https://vestacp.com/install/
 - https://openmoji.org/library/
 
-- Godot: 
+Godot: 
  - https://www.youtube.com/watch?v=WXrGi6FmQeA
