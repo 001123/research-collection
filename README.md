@@ -9,6 +9,7 @@ List of cool collection ❄.
 - https://vestacp.com/install/
 - https://openmoji.org/library/
 - https://ianlunn.github.io/Hover/
+- https://shoelace.style/
 
 Realtime game:
 - https://github.com/heroiclabs/nakama
