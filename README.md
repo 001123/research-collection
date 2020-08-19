@@ -8,6 +8,7 @@ List of cool collection ❄.
 - https://github.com/jackocnr/intl-tel-input
 - https://vestacp.com/install/
 - https://openmoji.org/library/
+- https://ianlunn.github.io/Hover/
 
 Realtime game:
 - https://github.com/heroiclabs/nakama
