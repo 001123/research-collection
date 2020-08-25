@@ -11,6 +11,9 @@ List of cool collection ❄.
 - https://ianlunn.github.io/Hover/
 - https://shoelace.style/
 
+- Windows app:
+https://github.com/jonaskohl/CapsLockIndicator
+
 VueJS common:
 - https://stackoverflow.com/questions/41305573/vue-router-reload-component#:~:text=4%20Answers&text=This%20is%20because%20Vue%20Router,component%20with%20the%20new%20data.
 
