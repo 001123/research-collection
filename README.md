@@ -11,7 +11,7 @@ List of cool collection ❄.
 - https://ianlunn.github.io/Hover/
 - https://shoelace.style/
 
-- Windows app:
+Windows app:
 https://github.com/jonaskohl/CapsLockIndicator
 
 VueJS common:
