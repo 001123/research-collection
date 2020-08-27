@@ -11,6 +11,7 @@ List of cool collection ❄.
 - https://ianlunn.github.io/Hover/
 - https://shoelace.style/
 - https://github.com/jquense/yup
+- https://gasparesganga.com/labs/jquery-loading-overlay/#actions
 
 Windows app:
 - https://github.com/jonaskohl/CapsLockIndicator
