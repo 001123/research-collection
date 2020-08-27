@@ -12,6 +12,7 @@ List of cool collection ❄.
 - https://shoelace.style/
 - https://github.com/jquense/yup
 - https://gasparesganga.com/labs/jquery-loading-overlay/#actions
+- https://flatpickr.js.org/getting-started/
 
 Windows app:
 - https://github.com/jonaskohl/CapsLockIndicator
