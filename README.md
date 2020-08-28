@@ -19,6 +19,7 @@ Windows app:
 
 VueJS common:
 - https://stackoverflow.com/questions/41305573/vue-router-reload-component#:~:text=4%20Answers&text=This%20is%20because%20Vue%20Router,component%20with%20the%20new%20data.
+- https://stackoverflow.com/questions/40382388/how-to-set-url-query-params-in-vue-with-vue-router/40394184
 - https://logaretm.github.io/vee-validate/overview.html#getting-started
 
 Realtime game:
