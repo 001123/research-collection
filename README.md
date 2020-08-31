@@ -32,3 +32,6 @@ Godot:
 
 Icons:
 - https://icon-icons.com/
+
+Life:
+- https://au.reachout.com/articles/tips-for-getting-and-staying-motivated
