@@ -14,6 +14,9 @@ List of cool collection ❄.
 - https://gasparesganga.com/labs/jquery-loading-overlay/#actions
 - https://flatpickr.js.org/getting-started/
 
+Bootstrap:
+- https://seiyria.com/bootstrap-slider/
+
 Windows app:
 - https://github.com/jonaskohl/CapsLockIndicator
 
