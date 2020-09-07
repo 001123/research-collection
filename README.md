@@ -23,6 +23,7 @@ Windows app:
 VueJS common:
 - https://stackoverflow.com/questions/41305573/vue-router-reload-component
 - https://stackoverflow.com/questions/40382388/how-to-set-url-query-params-in-vue-with-vue-router/40394184
+- https://stackoverflow.com/questions/52637936/vuejs-skip-watchers-first-change
 - https://logaretm.github.io/vee-validate/overview.html#getting-started
 
 Realtime game:
