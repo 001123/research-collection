@@ -13,6 +13,7 @@ List of cool collection ❄.
 - https://github.com/jquense/yup
 - https://gasparesganga.com/labs/jquery-loading-overlay/#actions
 - https://flatpickr.js.org/getting-started/
+- https://openmoji.org/library/
 
 Bootstrap:
 - https://seiyria.com/bootstrap-slider/
