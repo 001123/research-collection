@@ -38,6 +38,9 @@ Godot:
 - [Creating a headless lobby server with Godot and MultiplayerEnet](https://www.youtube.com/watch?v=WXrGi6FmQeA)
 - https://mrminimal.gitlab.io/2018/07/26/godot-dedicated-server-tutorial.html
 
+MomentJs: 
+- https://momentjs.com/docs/#/displaying/fromnow/ (EX: an hour ago)
+
 Icons:
 - https://icon-icons.com/
 
