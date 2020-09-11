@@ -15,6 +15,9 @@ List of cool collection ❄.
 - https://flatpickr.js.org/getting-started/
 - https://openmoji.org/library/
 
+Webapp:
+- https://squoosh.app/editor
+
 Bootstrap:
 - https://seiyria.com/bootstrap-slider/
 
