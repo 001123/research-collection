@@ -14,6 +14,7 @@ List of cool collection ❄.
 - https://gasparesganga.com/labs/jquery-loading-overlay/#actions
 - https://flatpickr.js.org/getting-started/
 - https://openmoji.org/library/
+- https://github.com/vuejs/docs-next
 
 Webapp:
 - https://squoosh.app/editor
