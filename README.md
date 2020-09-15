@@ -15,6 +15,7 @@ List of cool collection ❄.
 - https://flatpickr.js.org/getting-started/
 - https://openmoji.org/library/
 - https://github.com/vuejs/docs-next
+- https://howhttps.works/the-keys/
 
 Webapp:
 - https://squoosh.app/editor
