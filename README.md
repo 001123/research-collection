@@ -16,6 +16,7 @@ List of cool collection ❄.
 - https://openmoji.org/library/
 - https://github.com/vuejs/docs-next
 - https://howhttps.works/
+- https://effekseer.github.io/Helps/15x/Tool/en/ToolTutorial/01.html
 
 Webapp:
 - https://squoosh.app/editor
