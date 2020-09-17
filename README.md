@@ -15,6 +15,7 @@ List of cool collection ❄.
 - https://flatpickr.js.org/getting-started/
 - https://openmoji.org/library/
 - https://github.com/vuejs/docs-next
+- http://faisalman.github.io/ua-parser-js/
 - https://howhttps.works/
 - https://effekseer.github.io/Helps/15x/Tool/en/ToolTutorial/01.html
 
