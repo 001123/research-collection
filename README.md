@@ -34,6 +34,7 @@ VueJS common:
 - https://stackoverflow.com/questions/52637936/vuejs-skip-watchers-first-change
 - https://logaretm.github.io/vee-validate/overview.html#getting-started
 - https://www.npmjs.com/package/vue-pwa-asset-generator
+- https://vuetifyjs.com/en/
 
 Realtime game:
 - https://github.com/heroiclabs/nakama
