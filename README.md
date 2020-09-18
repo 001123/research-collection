@@ -20,6 +20,7 @@ List of cool collection ❄.
 - https://effekseer.github.io/Helps/15x/Tool/en/ToolTutorial/01.html
 - https://hype4.com/designsystems
 - http://styleguides.io/examples.html
+- https://day.js.org/
 
 Webapp:
 - https://squoosh.app/editor
