@@ -22,6 +22,7 @@ List of cool collection ❄.
 - http://styleguides.io/examples.html
 - https://day.js.org/
 - https://www.snowpack.dev/#get-started
+- http://placekitten.com/600/600
 
 Webapp:
 - https://squoosh.app/editor
