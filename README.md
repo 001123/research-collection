@@ -66,4 +66,5 @@ Hackintosh:
 - https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/
 
 Web tools:
+- https://undraw.co/illustrations
 - https://retool.com/
