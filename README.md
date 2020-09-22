@@ -66,5 +66,9 @@ Hackintosh:
 - https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/
 
 Web tools:
-- https://undraw.co/illustrations
 - https://retool.com/
+
+Design: 
+- https://www.newdesigngroup.ca/website-design/web-design-process-infographic/
+- https://undraw.co/illustrations
+
