@@ -24,6 +24,7 @@ List of cool collection ❄.
 - https://www.snowpack.dev/#get-started
 - http://placekitten.com/600/600
 
+
 Webapp:
 - https://squoosh.app/editor
 
@@ -32,6 +33,9 @@ Bootstrap:
 
 Windows app:
 - https://github.com/jonaskohl/CapsLockIndicator
+
+ReactJS: 
+- https://react-query.tanstack.com/docs/overview
 
 VueJS common:
 - https://stackoverflow.com/questions/41305573/vue-router-reload-component
