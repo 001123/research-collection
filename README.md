@@ -44,6 +44,7 @@ VueJS common:
 - https://logaretm.github.io/vee-validate/overview.html#getting-started
 - https://www.npmjs.com/package/vue-pwa-asset-generator
 - https://vuetifyjs.com/en/
+- https://vueformulate.com/
 
 Realtime game:
 - https://github.com/heroiclabs/nakama
