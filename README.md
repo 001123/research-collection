@@ -73,3 +73,6 @@ Design:
 - https://www.newdesigngroup.ca/website-design/web-design-process-infographic/
 - https://undraw.co/illustrations
 - https://froala.com/wysiwyg-editor/whiteboard
+
+Blog: 
+- https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4
