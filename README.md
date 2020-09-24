@@ -72,4 +72,4 @@ Web tools:
 Design: 
 - https://www.newdesigngroup.ca/website-design/web-design-process-infographic/
 - https://undraw.co/illustrations
-
+- https://froala.com/wysiwyg-editor/whiteboard
