@@ -23,6 +23,7 @@ List of cool collection ❄.
 - https://day.js.org/
 - https://www.snowpack.dev/#get-started
 - http://placekitten.com/600/600
+- https://www.cosmicjs.com/headless-cms
 
 
 Webapp:
