@@ -47,6 +47,7 @@ VueJS common:
 - https://www.npmjs.com/package/vue-pwa-asset-generator
 - https://vuetifyjs.com/en/
 - https://vueformulate.com/
+- https://rowanwins.github.io/vue-dropzone
 
 Realtime game:
 - https://github.com/heroiclabs/nakama
