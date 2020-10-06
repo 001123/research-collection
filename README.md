@@ -25,6 +25,7 @@ List of cool collection ❄.
 - http://placekitten.com/600/600
 - https://www.cosmicjs.com/headless-cms
 - https://github.com/chris1111/Wireless-USB-Adapter
+- https://whatwebcando.today/
 
 
 Webapp:
