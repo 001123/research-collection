@@ -30,6 +30,7 @@ List of cool collection ❄.
 - https://github.com/chris1111/Wireless-USB-Adapter
 - https://whatwebcando.today/
 - https://matomo.org/
+- https://flaviocopes.com/
 
 Webapp:
 - https://squoosh.app/editor
