@@ -31,6 +31,7 @@ List of cool collection ❄.
 - https://whatwebcando.today/
 - https://matomo.org/
 - https://flaviocopes.com/
+- https://dafrok.github.io/gzip-size-online/
 
 Webapp:
 - https://squoosh.app/editor
