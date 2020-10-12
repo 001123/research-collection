@@ -79,6 +79,9 @@ Life:
 Web tools:
 - https://retool.com/
 
+Mock API: 
+- https://ui-avatars.com/
+
 Design: 
 - https://www.newdesigngroup.ca/website-design/web-design-process-infographic/
 - https://undraw.co/illustrations
