@@ -55,6 +55,7 @@ VueJS common:
 - https://vuetifyjs.com/en/
 - https://vueformulate.com/
 - https://rowanwins.github.io/vue-dropzone
+- Disable autofill : https://github.com/vuetifyjs/vuetify/issues/2792
 
 Realtime game:
 - https://github.com/heroiclabs/nakama
