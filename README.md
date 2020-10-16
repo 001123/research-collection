@@ -83,11 +83,12 @@ Web tools:
 Mock API: 
 - https://ui-avatars.com/
 
-Design: 
+🎨 Design: 
 - https://www.lightningdesignsystem.com/components/overview/
 - https://www.newdesigngroup.ca/website-design/web-design-process-infographic/
 - https://undraw.co/illustrations
 - https://froala.com/wysiwyg-editor/whiteboard
+- https://www.checklist.design/
 
 Blog: 
 - https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4
