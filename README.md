@@ -84,6 +84,9 @@ Web tools:
 Mock API: 
 - https://ui-avatars.com/
 
+Canvas:
+- http://fabricjs.com/
+
 🎨 Design: 
 - https://www.lightningdesignsystem.com/components/overview/
 - https://www.newdesigngroup.ca/website-design/web-design-process-infographic/
