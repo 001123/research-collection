@@ -33,6 +33,7 @@ List of cool collection ❄.
 - https://flaviocopes.com/
 - https://dafrok.github.io/gzip-size-online/
 - http://abcnotation.com/
+- http://lazylinepainter.info/
 
 Webapp:
 - https://squoosh.app/editor
