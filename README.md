@@ -96,6 +96,9 @@ Canvas:
 - https://froala.com/wysiwyg-editor/whiteboard
 - https://www.checklist.design/
 
+🚨 Security: 
+- https://viblo.asia/p/ky-tu-zero-width-sat-thu-vo-hinh-nam-giua-doan-van-ban-thuan-vo-hai-L4x5xM7qKBM
+
 Blog: 
 - https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4
 
