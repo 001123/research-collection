@@ -35,6 +35,7 @@ List of cool collection ❄.
 - https://dafrok.github.io/gzip-size-online/
 - http://abcnotation.com/
 - http://lazylinepainter.info/
+- https://github.com/js-cookie/js-cookie
 
 Webapp:
 - https://squoosh.app/editor
