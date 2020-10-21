@@ -12,7 +12,6 @@ List of cool collection ❄.
 - https://css-irl.info/drop-shadow-the-underrated-css-filter/
 - https://www.checklist.design/
 - https://github.com/jackocnr/intl-tel-input
-- https://vestacp.com/install/
 - https://openmoji.org/library/
 - https://ianlunn.github.io/Hover/
 - https://shoelace.style/
@@ -22,15 +21,10 @@ List of cool collection ❄.
 - https://openmoji.org/library/
 - https://github.com/vuejs/docs-next
 - http://faisalman.github.io/ua-parser-js/
-- https://howhttps.works/
-- https://effekseer.github.io/Helps/15x/Tool/en/ToolTutorial/01.html
 - https://hype4.com/designsystems
 - http://styleguides.io/examples.html
 - https://day.js.org/
-- https://www.snowpack.dev/#get-started
 - http://placekitten.com/600/600
-- https://www.cosmicjs.com/headless-cms
-- https://github.com/chris1111/Wireless-USB-Adapter
 - https://whatwebcando.today/
 - https://matomo.org/
 - https://flaviocopes.com/
@@ -109,3 +103,10 @@ Blog:
 Git:
 - https://gitmoji.carloscuesta.me
 
+Other: 
+- https://vestacp.com/install/
+- https://howhttps.works/
+- https://effekseer.github.io/Helps/15x/Tool/en/ToolTutorial/01.html
+- https://www.cosmicjs.com/headless-cms
+- https://github.com/chris1111/Wireless-USB-Adapter
+- https://www.snowpack.dev/#get-started
