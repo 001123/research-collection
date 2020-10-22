@@ -16,7 +16,6 @@ List of cool collection ❄.
 - https://ianlunn.github.io/Hover/
 - https://shoelace.style/
 - https://github.com/jquense/yup
-- https://gasparesganga.com/labs/jquery-loading-overlay/#actions
 - https://flatpickr.js.org/getting-started/
 - https://openmoji.org/library/
 - https://github.com/vuejs/docs-next
@@ -30,8 +29,6 @@ List of cool collection ❄.
 - https://flaviocopes.com/
 - https://dafrok.github.io/gzip-size-online/
 - http://abcnotation.com/
-- http://lazylinepainter.info/
-- https://github.com/js-cookie/js-cookie
 
 Webapp:
 - https://squoosh.app/editor
@@ -85,6 +82,11 @@ Mock API:
 
 Canvas:
 - http://fabricjs.com/
+
+ 🎎 Jquery: 
+- https://gasparesganga.com/labs/jquery-loading-overlay/#actions
+- http://lazylinepainter.info/
+- https://github.com/js-cookie/js-cookie
 
 🎨 Design: 
 - https://www.lightningdesignsystem.com/components/overview/
