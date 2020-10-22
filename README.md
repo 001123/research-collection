@@ -38,6 +38,7 @@ List of cool collection ❄.
 - https://day.js.org/
 - https://flatpickr.js.org/getting-started/
 - http://scrollmagic.io/
+- https://github.com/tgomilar/paroller.js/
 
 📔 **Bootstrap**:
 - https://seiyria.com/bootstrap-slider/
