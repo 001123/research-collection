@@ -11,38 +11,41 @@ List of cool collection ❄.
 - http://codingheroes.io/resources/
 - https://css-irl.info/drop-shadow-the-underrated-css-filter/
 - https://www.checklist.design/
-- https://github.com/jackocnr/intl-tel-input
 - https://openmoji.org/library/
 - https://ianlunn.github.io/Hover/
 - https://shoelace.style/
 - https://github.com/jquense/yup
-- https://flatpickr.js.org/getting-started/
 - https://openmoji.org/library/
-- https://github.com/vuejs/docs-next
-- http://faisalman.github.io/ua-parser-js/
 - https://hype4.com/designsystems
 - http://styleguides.io/examples.html
-- https://day.js.org/
-- http://placekitten.com/600/600
 - https://whatwebcando.today/
 - https://matomo.org/
 - https://flaviocopes.com/
 - https://dafrok.github.io/gzip-size-online/
 - http://abcnotation.com/
 
-Webapp:
+🐢 Git:
+- https://gitmoji.carloscuesta.me
+
+🌐 Webapp:
 - https://squoosh.app/editor
 
-Bootstrap:
-- https://seiyria.com/bootstrap-slider/
-
-Windows app:
+📱 Windows app:
 - https://github.com/jonaskohl/CapsLockIndicator
 
-ReactJS: 
+📙 Javascript: 
+- https://momentjs.com/docs/#/displaying/fromnow/ (EX: an hour ago)
+- https://day.js.org/
+- https://flatpickr.js.org/getting-started/
+
+📔 Bootstrap:
+- https://seiyria.com/bootstrap-slider/
+
+📘 ReactJS: 
 - https://react-query.tanstack.com/docs/overview
 
-VueJS common:
+📗 VueJS common:
+- https://github.com/vuejs/docs-next
 - https://stackoverflow.com/questions/41305573/vue-router-reload-component
 - https://stackoverflow.com/questions/40382388/how-to-set-url-query-params-in-vue-with-vue-router/40394184
 - https://stackoverflow.com/questions/52637936/vuejs-skip-watchers-first-change
@@ -55,14 +58,6 @@ VueJS common:
 
 Realtime game:
 - https://github.com/heroiclabs/nakama
-
-Godot: 
-- https://docs.godotengine.org/en/stable/tutorials/networking/high_level_multiplayer.html
-- [Creating a headless lobby server with Godot and MultiplayerEnet](https://www.youtube.com/watch?v=WXrGi6FmQeA)
-- https://mrminimal.gitlab.io/2018/07/26/godot-dedicated-server-tutorial.html
-
-MomentJs: 
-- https://momentjs.com/docs/#/displaying/fromnow/ (EX: an hour ago)
 
 Icons:
 - https://icon-icons.com/
@@ -79,6 +74,7 @@ Web tools:
 
 Mock API: 
 - https://ui-avatars.com/
+- http://placekitten.com/600/600
 
 Canvas:
 - http://fabricjs.com/
@@ -87,6 +83,8 @@ Canvas:
 - https://gasparesganga.com/labs/jquery-loading-overlay/#actions
 - http://lazylinepainter.info/
 - https://github.com/js-cookie/js-cookie
+- http://faisalman.github.io/ua-parser-js/
+- https://github.com/jackocnr/intl-tel-input
 
 🎨 Design: 
 - https://www.lightningdesignsystem.com/components/overview/
@@ -102,8 +100,11 @@ Blog:
 - https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4
 - https://24ways.org/2016/css-writing-modes/
 
-Git:
-- https://gitmoji.carloscuesta.me
+
+Godot: 
+- https://docs.godotengine.org/en/stable/tutorials/networking/high_level_multiplayer.html
+- [Creating a headless lobby server with Godot and MultiplayerEnet](https://www.youtube.com/watch?v=WXrGi6FmQeA)
+- https://mrminimal.gitlab.io/2018/07/26/godot-dedicated-server-tutorial.html
 
 Other: 
 - https://vestacp.com/install/
