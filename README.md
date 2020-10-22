@@ -40,6 +40,7 @@ List of cool collection ❄.
 - http://scrollmagic.io/
 - https://github.com/tgomilar/paroller.js/
 - https://gjunge.github.io/rateit.js/examples/
+- https://lokeshdhakar.com/projects/color-thief/ 🖼
 
 📔 **Bootstrap**:
 - https://seiyria.com/bootstrap-slider/
