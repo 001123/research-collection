@@ -24,27 +24,27 @@ List of cool collection ❄.
 - https://dafrok.github.io/gzip-size-online/
 - http://abcnotation.com/
 
-🐢 *Git*:
+🐢 **Git**:
 - https://gitmoji.carloscuesta.me
 
-🌐 Webapp:
+🌐 **Webapp**:
 - https://squoosh.app/editor
 
-📱 Windows app:
+📱 **Windows app**:
 - https://github.com/jonaskohl/CapsLockIndicator
 
-📙 Javascript: 
+📙 **Javascript**: 
 - https://momentjs.com/docs/#/displaying/fromnow/ (EX: an hour ago)
 - https://day.js.org/
 - https://flatpickr.js.org/getting-started/
 
-📔 Bootstrap:
+📔 **Bootstrap**:
 - https://seiyria.com/bootstrap-slider/
 
-📘 ReactJS: 
+📘 **ReactJS**: 
 - https://react-query.tanstack.com/docs/overview
 
-📗 VueJS common:
+📗 **VueJS common**:
 - https://github.com/vuejs/docs-next
 - https://stackoverflow.com/questions/41305573/vue-router-reload-component
 - https://stackoverflow.com/questions/40382388/how-to-set-url-query-params-in-vue-with-vue-router/40394184
@@ -56,57 +56,57 @@ List of cool collection ❄.
 - https://rowanwins.github.io/vue-dropzone
 - Disable autofill : https://github.com/vuetifyjs/vuetify/issues/2792
 
-Realtime game:
+**Realtime game**:
 - https://github.com/heroiclabs/nakama
 
-Icons:
+🎭 **Icons**:
 - https://icon-icons.com/
 
-Life:
+**Life**:
 - https://au.reachout.com/articles/tips-for-getting-and-staying-motivated
 
-🍎 Hackintosh:
+🍎 **Hackintosh**:
 - https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/
 - https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/
 
-Web tools:
+**Web tools**:
 - https://retool.com/
 
-Mock API: 
+**Mock API**: 
 - https://ui-avatars.com/
 - http://placekitten.com/600/600
 
-Canvas:
+**Canvas**:
 - http://fabricjs.com/
 
- 🎎 Jquery: 
+ 🎎 **Jquery**: 
 - https://gasparesganga.com/labs/jquery-loading-overlay/#actions
 - http://lazylinepainter.info/
 - https://github.com/js-cookie/js-cookie
 - http://faisalman.github.io/ua-parser-js/
 - https://github.com/jackocnr/intl-tel-input
 
-🎨 Design: 
+🎨 **Design**: 
 - https://www.lightningdesignsystem.com/components/overview/
 - https://www.newdesigngroup.ca/website-design/web-design-process-infographic/
 - https://undraw.co/illustrations
 - https://froala.com/wysiwyg-editor/whiteboard
 - https://www.checklist.design/
 
-🚨 Security: 
+🚨 **Security**: 
 - https://viblo.asia/p/ky-tu-zero-width-sat-thu-vo-hinh-nam-giua-doan-van-ban-thuan-vo-hai-L4x5xM7qKBM
 
-Blog: 
+**Blog**: 
 - https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4
 - https://24ways.org/2016/css-writing-modes/
 
 
-Godot: 
+**Godot**: 
 - https://docs.godotengine.org/en/stable/tutorials/networking/high_level_multiplayer.html
 - [Creating a headless lobby server with Godot and MultiplayerEnet](https://www.youtube.com/watch?v=WXrGi6FmQeA)
 - https://mrminimal.gitlab.io/2018/07/26/godot-dedicated-server-tutorial.html
 
-Other: 
+**Other**: 
 - https://vestacp.com/install/
 - https://howhttps.works/
 - https://effekseer.github.io/Helps/15x/Tool/en/ToolTutorial/01.html
