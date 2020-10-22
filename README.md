@@ -56,6 +56,14 @@ List of cool collection ❄.
 - https://rowanwins.github.io/vue-dropzone
 - Disable autofill : https://github.com/vuetifyjs/vuetify/issues/2792
 
+🎨 **Design**: 
+- https://htmlstream.com/front/documentation/index.html
+- https://www.lightningdesignsystem.com/components/overview/
+- https://www.newdesigngroup.ca/website-design/web-design-process-infographic/
+- https://undraw.co/illustrations
+- https://froala.com/wysiwyg-editor/whiteboard
+- https://www.checklist.design/
+
 **Realtime game**:
 - https://github.com/heroiclabs/nakama
 
@@ -85,13 +93,6 @@ List of cool collection ❄.
 - https://github.com/js-cookie/js-cookie
 - http://faisalman.github.io/ua-parser-js/
 - https://github.com/jackocnr/intl-tel-input
-
-🎨 **Design**: 
-- https://www.lightningdesignsystem.com/components/overview/
-- https://www.newdesigngroup.ca/website-design/web-design-process-infographic/
-- https://undraw.co/illustrations
-- https://froala.com/wysiwyg-editor/whiteboard
-- https://www.checklist.design/
 
 🚨 **Security**: 
 - https://viblo.asia/p/ky-tu-zero-width-sat-thu-vo-hinh-nam-giua-doan-van-ban-thuan-vo-hai-L4x5xM7qKBM
