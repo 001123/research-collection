@@ -24,7 +24,7 @@ List of cool collection ❄.
 - https://dafrok.github.io/gzip-size-online/
 - http://abcnotation.com/
 
-🐢 Git:
+🐢 *Git*:
 - https://gitmoji.carloscuesta.me
 
 🌐 Webapp:
