@@ -37,6 +37,7 @@ List of cool collection ❄.
 - https://momentjs.com/docs/#/displaying/fromnow/ (EX: an hour ago)
 - https://day.js.org/
 - https://flatpickr.js.org/getting-started/
+- http://scrollmagic.io/
 
 📔 **Bootstrap**:
 - https://seiyria.com/bootstrap-slider/
