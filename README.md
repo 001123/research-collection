@@ -23,6 +23,7 @@ List of cool collection ❄.
 - https://flaviocopes.com/
 - https://dafrok.github.io/gzip-size-online/
 - http://abcnotation.com/
+- https://almanac.httparchive.org/en/2020/
 
 🐢 **Git**:
 - https://gitmoji.carloscuesta.me
