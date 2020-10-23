@@ -42,6 +42,7 @@ List of cool collection ❄.
 - https://github.com/tgomilar/paroller.js/
 - https://gjunge.github.io/rateit.js/examples/
 - https://lokeshdhakar.com/projects/color-thief/ 🖼
+- https://split.js.org/
 
 📔 **Bootstrap**:
 - https://seiyria.com/bootstrap-slider/
