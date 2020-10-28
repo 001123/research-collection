@@ -106,6 +106,7 @@ List of cool collection ❄.
 **Blog**: 
 - https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4
 - https://24ways.org/2016/css-writing-modes/
+- https://hankchizljaw.com/wrote/a-modern-css-reset/
 
 
 **Godot**: 
