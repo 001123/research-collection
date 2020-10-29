@@ -43,6 +43,7 @@ List of cool collection ❄.
 - https://gjunge.github.io/rateit.js/examples/
 - https://lokeshdhakar.com/projects/color-thief/ 🖼
 - https://split.js.org/
+- https://webkul.github.io/micron/
 
 📔 **Bootstrap**:
 - https://seiyria.com/bootstrap-slider/
