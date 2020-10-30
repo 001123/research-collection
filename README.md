@@ -124,5 +124,4 @@ List of cool collection ❄.
 - https://www.snowpack.dev/#get-started
 - https://stackoverflow.com/questions/7372067/is-there-any-way-to-prevent-input-type-number-getting-negative-values
 - https://codyhouse.co/ds/docs/framework/grid-layout#flex-grid-system
-
-
+- https://tinhte.vn/thread/y-nghia-day-so-tren-the-tin-dung-va-the-ghi-no-credit-card-debit-card.3209952/
