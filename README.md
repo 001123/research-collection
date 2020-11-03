@@ -62,6 +62,7 @@ List of cool collection ❄.
 - https://vueformulate.com/
 - https://rowanwins.github.io/vue-dropzone
 - Disable autofill : https://github.com/vuetifyjs/vuetify/issues/2792
+- https://github.com/LinusBorg/portal-vue
 
 🎨 **Design**: 
 - https://htmlstream.com/front/documentation/index.html
