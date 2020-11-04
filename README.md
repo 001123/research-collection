@@ -3,6 +3,7 @@
 ⭐ Star if you think it cool 😁
 
 List of cool collection ❄.
+- https://github.com/developer-resources/frontend-development
 - https://github.com/yangshun/front-end-interview-handbook 
 - https://h5bp.org/Front-end-Developer-Interview-Questions/translations/vietnamese/
 - https://github.com/dereknguyen269/programing-best-practices
