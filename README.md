@@ -115,6 +115,7 @@ List of cool collection ❄.
 - https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4
 - https://24ways.org/2016/css-writing-modes/
 - https://hankchizljaw.com/wrote/a-modern-css-reset/
+- https://medium.com/better-advice/20-things-most-people-learn-too-late-in-life-23674cdbd75c
 
 
 **Godot**: 
