@@ -46,6 +46,7 @@ List of cool collection ❄.
 - https://split.js.org/
 - https://webkul.github.io/micron/
 - bootstrap-table.com/
+- https://splitting.js.org/
 
 📔 **Bootstrap**:
 - https://seiyria.com/bootstrap-slider/
