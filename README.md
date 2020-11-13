@@ -50,6 +50,7 @@ List of cool collection ❄.
 
 📔 **Bootstrap**:
 - https://seiyria.com/bootstrap-slider/
+- https://www.layoutit.com/cn
 
 📘 **ReactJS**: 
 - https://react-query.tanstack.com/docs/overview
