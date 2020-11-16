@@ -49,6 +49,9 @@ List of cool collection ❄.
 - https://splitting.js.org/
 - https://www.daterangepicker.com/#examples
 
+🍎 **Safari**:
+- https://stackoverflow.com/questions/2989263/disable-auto-zoom-in-input-text-tag-safari-on-iphone
+
 📔 **Bootstrap**:
 - https://seiyria.com/bootstrap-slider/
 - https://www.layoutit.com/cn
