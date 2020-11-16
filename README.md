@@ -47,6 +47,7 @@ List of cool collection ❄.
 - https://webkul.github.io/micron/
 - bootstrap-table.com/
 - https://splitting.js.org/
+- https://www.daterangepicker.com/#examples
 
 📔 **Bootstrap**:
 - https://seiyria.com/bootstrap-slider/
