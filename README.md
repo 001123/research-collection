@@ -49,7 +49,7 @@ List of cool collection ❄.
 - https://splitting.js.org/
 - https://www.daterangepicker.com/#examples
 
-🍎 **Safari**:
+🍏 💻 **Safari**:
 - https://stackoverflow.com/questions/2989263/disable-auto-zoom-in-input-text-tag-safari-on-iphone
 
 📔 **Bootstrap**:
