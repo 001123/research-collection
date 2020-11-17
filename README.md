@@ -45,7 +45,7 @@ List of cool collection ❄.
 - https://lokeshdhakar.com/projects/color-thief/ 🖼
 - https://split.js.org/
 - https://webkul.github.io/micron/
-- bootstrap-table.com/
+- https://bootstrap-table.com/
 - https://splitting.js.org/
 - https://www.daterangepicker.com/#examples
 
