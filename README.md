@@ -36,6 +36,7 @@ List of cool collection ❄.
 - https://github.com/jonaskohl/CapsLockIndicator
 
 📙 **Javascript**: 
+- https://javascript.info/
 - https://momentjs.com/docs/#/displaying/fromnow/ (EX: an hour ago)
 - https://day.js.org/
 - https://flatpickr.js.org/getting-started/
