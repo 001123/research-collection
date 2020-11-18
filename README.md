@@ -136,6 +136,7 @@ List of cool collection ❄.
 - https://mrminimal.gitlab.io/2018/07/26/godot-dedicated-server-tutorial.html
 
 **Other**: 
+- https://svelte.dev/
 - https://cdnjs.com/
 - https://www.diffchecker.com/
 - https://vestacp.com/install/
