@@ -128,6 +128,7 @@ List of cool collection ❄.
 - https://hankchizljaw.com/wrote/a-modern-css-reset/
 - https://medium.com/better-advice/20-things-most-people-learn-too-late-in-life-23674cdbd75c
 - https://medium.com/@Taha_Shashtari/reset-vuex-module-state-like-a-pro-1acb7f8d9e21
+- https://egghead.io/lessons/javascript-deep-merge-objects-in-javascript-with-spread-lodash-and-deepmerge
 
 
 **Godot**: 
