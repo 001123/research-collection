@@ -82,6 +82,7 @@ List of cool collection ❄.
 - https://froala.com/wysiwyg-editor/whiteboard
 - https://www.checklist.design/
 - https://www.uistore.design/items/contra-open-source-wireframe-kit/
+- https://2.flexiple.com/scale/all-illustrations
 
 🤪 **Inspired**:
 - https://www.metalab.co/
