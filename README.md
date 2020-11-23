@@ -83,6 +83,7 @@ List of cool collection ❄.
 - https://www.checklist.design/
 - https://www.uistore.design/items/contra-open-source-wireframe-kit/
 - https://2.flexiple.com/scale/all-illustrations
+- https://icons8.com/illustrations/holidays/christmas
 
 🤪 **Inspired**:
 - https://www.metalab.co/
