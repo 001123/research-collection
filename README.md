@@ -51,6 +51,7 @@ List of cool collection ❄.
 - https://www.daterangepicker.com/#examples
 - https://sindresorhus.com/screenfull.js/
 - https://popper.js.org/
+- https://github.com/Mobius1/MiniBar
 
 🍏 💻 **Safari**:
 - https://stackoverflow.com/questions/2989263/disable-auto-zoom-in-input-text-tag-safari-on-iphone
