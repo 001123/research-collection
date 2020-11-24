@@ -107,6 +107,7 @@ List of cool collection ❄.
 **Mock API**: 
 - https://ui-avatars.com/
 - http://placekitten.com/600/600
+- https://reqres.in/
 
 **Canvas**:
 - http://fabricjs.com/
