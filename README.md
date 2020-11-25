@@ -136,6 +136,7 @@ List of cool collection ❄.
 - https://medium.com/@Taha_Shashtari/reset-vuex-module-state-like-a-pro-1acb7f8d9e21
 - https://egghead.io/lessons/javascript-deep-merge-objects-in-javascript-with-spread-lodash-and-deepmerge
 - https://dev.to/thisdotmedia/what-can-you-do-with-tailwind-2-6jo
+- https://dev.to/srebalaji/5-books-every-developer-must-read-before-it-s-too-late-2h1n
 
 
 **Godot**: 
