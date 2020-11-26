@@ -147,6 +147,7 @@ List of cool collection ❄.
 - https://mrminimal.gitlab.io/2018/07/26/godot-dedicated-server-tutorial.html
 
 🎼 **Music**:
+- https://webmidi-examples.glitch.me/
 
 **Other**: 
 - https://svelte.dev/
