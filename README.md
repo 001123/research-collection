@@ -139,7 +139,7 @@ List of cool collection ❄.
 - https://dev.to/thisdotmedia/what-can-you-do-with-tailwind-2-6jo
 - https://dev.to/srebalaji/5-books-every-developer-must-read-before-it-s-too-late-2h1n
 - https://dev.to/gopal1996/understanding-reflow-and-repaint-in-the-browser-1jbg
-
+- https://stackoverflow.com/questions/53074551/when-should-you-not-use-react-memo
 
 **Godot**: 
 - https://docs.godotengine.org/en/stable/tutorials/networking/high_level_multiplayer.html
