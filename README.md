@@ -29,6 +29,7 @@ List of cool collection ❄.
 🐢 **Git**:
 - https://gitmoji.carloscuesta.me
 - https://ohshitgit.com/
+- https://viblo.asia/p/19-bi-kip-ban-co-the-dung-khi-pham-sai-lam-voi-git-dWrvwdmPRw38
 
 🌐 **Webapp**:
 - https://squoosh.app/editor
