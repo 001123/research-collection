@@ -151,6 +151,7 @@ List of cool collection ❄.
 
 🎼 **Music**:
 - https://webmidi-examples.glitch.me/
+- http://piano.net.vn/2018/06/15/giai-thich-vong-quang-5/
 
 **Other**: 
 - https://svelte.dev/
