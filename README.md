@@ -28,6 +28,7 @@ List of cool collection ❄.
 
 🐢 **Git**:
 - https://gitmoji.carloscuesta.me
+- https://ohshitgit.com/
 
 🌐 **Webapp**:
 - https://squoosh.app/editor
