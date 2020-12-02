@@ -95,6 +95,7 @@ List of cool collection ❄.
 
 🤪 **Inspired**:
 - https://www.metalab.co/
+- https://imkindofabigdeal.co/
 
 **Realtime game**:
 - https://github.com/heroiclabs/nakama
