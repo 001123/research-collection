@@ -147,6 +147,7 @@ List of cool collection ❄.
 - https://dev.to/gopal1996/understanding-reflow-and-repaint-in-the-browser-1jbg
 - https://stackoverflow.com/questions/53074551/when-should-you-not-use-react-memo
 - https://www.hongkiat.com/blog/fresh-minimalistic-fonts/
+- https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
 
 **Godot**: 
 - https://docs.godotengine.org/en/stable/tutorials/networking/high_level_multiplayer.html
