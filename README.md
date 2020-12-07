@@ -185,4 +185,4 @@ List of cool collection ❄.
 - https://jsdiff.dev/?ref=producthunt
 - https://www.sitepoint.com/xmlhttprequest-vs-the-fetch-api-whats-best-for-ajax-in-2019/
 - https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c
-
+- https://rauchg.com/2014/7-principles-of-rich-web-applications
