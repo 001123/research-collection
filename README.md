@@ -160,6 +160,7 @@ List of cool collection ❄.
 - https://newt.phys.unsw.edu.au/jw/notes.html
 - http://webaudiodemos.appspot.com/
 - https://en.wikipedia.org/wiki/Helmholtz_pitch_notation
+- https://en.wikipedia.org/wiki/Guitar#Tuning
 
 **Other**: 
 - https://svelte.dev/
