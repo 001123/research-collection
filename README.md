@@ -99,6 +99,7 @@ List of cool collection ❄.
 - https://www.metalab.co/
 - https://imkindofabigdeal.co/
 - https://1linelayouts.glitch.me/
+- https://developers.google.com/identity/one-tap/web
 
 **Realtime game**:
 - https://github.com/heroiclabs/nakama
