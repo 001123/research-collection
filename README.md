@@ -58,6 +58,7 @@ List of cool collection ❄.
 - https://github.com/Mobius1/MiniBar
 - https://vocajs.com/
 - http://countdownjs.org/
+- https://github.com/ai/nanoid
 
 🍏 💻 **Safari**:
 - https://stackoverflow.com/questions/2989263/disable-auto-zoom-in-input-text-tag-safari-on-iphone
