@@ -196,3 +196,4 @@ List of cool collection ❄.
 - https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c
 - https://rauchg.com/2014/7-principles-of-rich-web-applications
 - https://www.vscodecandothat.com/
+- https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
