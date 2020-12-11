@@ -83,6 +83,7 @@ List of cool collection ❄.
 - Disable autofill : https://github.com/vuetifyjs/vuetify/issues/2792
 - https://github.com/LinusBorg/portal-vue
 - https://github.com/maoberlehner/vuex-map-fields
+- https://github.com/nuxt/create-nuxt-app/blob/master/README.md
 
 🎨 **Design**: 
 - https://htmlstream.com/front/documentation/index.html
