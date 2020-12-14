@@ -97,6 +97,7 @@ List of cool collection ❄.
 - https://icons8.com/illustrations/holidays/christmas
 - https://patternico.com/
 - https://www.underconsideration.com/brandnew/
+- https://feathericons.com/
 - https://toihocdohoa.com/blog/font-tieng-viet-4-viet-hoa-font-chu-unicode-tu-a-z/
 
 🤪 **Inspired**:
