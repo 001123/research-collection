@@ -158,6 +158,7 @@ List of cool collection ❄.
 - https://www.hongkiat.com/blog/fresh-minimalistic-fonts/
 - https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
 - https://dev.to/codeozz/weakmap-in-javascript-35gi
+- https://dev.to/dailydevtips1/using-the-shy-soft-hyphen-in-html-24nd
 
 **Godot**: 
 - https://docs.godotengine.org/en/stable/tutorials/networking/high_level_multiplayer.html
