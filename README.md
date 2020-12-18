@@ -59,6 +59,7 @@ List of cool collection ❄.
 - https://vocajs.com/
 - http://countdownjs.org/
 - https://github.com/ai/nanoid
+- https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode
 
 🍏 💻 **Safari**:
 - https://stackoverflow.com/questions/2989263/disable-auto-zoom-in-input-text-tag-safari-on-iphone
