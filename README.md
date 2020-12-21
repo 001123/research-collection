@@ -176,6 +176,7 @@ List of cool collection ❄.
 - https://bloghocpiano.com/
 
 **Other**: 
+- https://httpstatuses.com/
 - https://whydoesitsuck.com/
 - https://svelte.dev/
 - https://cdnjs.com/
