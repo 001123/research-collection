@@ -108,6 +108,7 @@ List of cool collection ❄.
 - https://1linelayouts.glitch.me/
 - https://developers.google.com/identity/one-tap/web
 - https://houdini.how/
+- https://designervn.net/threads/14-css-tao-hiu-ng-cho-background-tuyt-dep.9822/
 
 **Realtime game**:
 - https://github.com/heroiclabs/nakama
