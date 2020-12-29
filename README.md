@@ -208,3 +208,4 @@ List of cool collection ❄.
 - https://www.vscodecandothat.com/
 - https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
 - https://snipcart.com/spa-seo
+- https://gist.github.com/sadikaya/f5fa699c435ebfafece2fb7d982bcdb5 ( Git bash for WebStorm )
