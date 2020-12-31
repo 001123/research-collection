@@ -101,6 +101,7 @@ List of cool collection ❄.
 - https://www.underconsideration.com/brandnew/
 - https://feathericons.com/
 - https://toihocdohoa.com/blog/font-tieng-viet-4-viet-hoa-font-chu-unicode-tu-a-z/
+- https://www.pngegg.com/
 
 🤪 **Inspired**:
 - https://www.metalab.co/
