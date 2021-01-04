@@ -163,6 +163,7 @@ List of cool collection ❄.
 - https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
 - https://dev.to/codeozz/weakmap-in-javascript-35gi
 - https://dev.to/dailydevtips1/using-the-shy-soft-hyphen-in-html-24nd
+- https://designervn.net/threads/cach-thit-k-trang-web-10-nguyen-tac-vang-cho-nguoi-moi-bat-du.10867/
 
 **Godot**: 
 - https://docs.godotengine.org/en/stable/tutorials/networking/high_level_multiplayer.html
