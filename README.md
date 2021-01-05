@@ -38,6 +38,7 @@ List of cool collection ❄.
 
 📱 **Windows app**:
 - https://github.com/jonaskohl/CapsLockIndicator
+- https://github.com/microsoft/PowerToys
 
 📙 **Javascript**: 
 - https://plainjs.com/
