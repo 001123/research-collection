@@ -41,6 +41,7 @@ List of cool collection ❄.
 - https://github.com/microsoft/PowerToys
 
 📙 **Javascript**: 
+- https://github.com/lydiahallie/javascript-questions
 - https://plainjs.com/
 - https://javascript.info/
 - https://momentjs.com/docs/#/displaying/fromnow/ (EX: an hour ago)
