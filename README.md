@@ -92,6 +92,7 @@ List of cool collection ❄.
 - https://github.com/nuxt/create-nuxt-app/blob/master/README.md
 
 🎨 **Design**: 
+- https://lawsofux.com/
 - https://htmlstream.com/front/documentation/index.html
 - https://www.lightningdesignsystem.com/components/overview/
 - https://www.newdesigngroup.ca/website-design/web-design-process-infographic/
