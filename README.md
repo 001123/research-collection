@@ -137,6 +137,7 @@ List of cool collection ❄.
 - https://ui-avatars.com/
 - http://placekitten.com/600/600
 - https://reqres.in/
+- https://github.com/tsenart/vegeta
 
 **Canvas**:
 - http://fabricjs.com/
