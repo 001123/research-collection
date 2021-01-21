@@ -76,6 +76,7 @@ List of cool collection ❄.
 📘 **ReactJS**: 
 - https://react-query.tanstack.com/docs/overview
 - https://reactflow.dev/examples/edges/
+- https://www.kirilv.com/canvas-confetti/#random
 
 📗 **VueJS common**:
 - https://github.com/vuejs/docs-next
