@@ -80,6 +80,7 @@ List of cool collection ❄.
 - https://reactflow.dev/examples/edges/
 - https://www.kirilv.com/canvas-confetti/#random
 - https://reactjsexample.com/make-your-react-components-aware-of-their-dimensions-and-position/
+- https://github.com/Wildhoney/ReactShadow
 
 📗 **VueJS common**:
 - https://github.com/vuejs/docs-next
