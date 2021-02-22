@@ -124,6 +124,7 @@ List of cool collection ❄.
 - https://houdini.how/
 - https://designervn.net/threads/14-css-tao-hiu-ng-cho-background-tuyt-dep.9822/
 - https://studio.polotno.dev/?ref=producthunt
+- https://web.dev/prefers-reduced-motion/
 
 **Realtime game**:
 - https://github.com/heroiclabs/nakama
