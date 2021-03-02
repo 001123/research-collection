@@ -194,6 +194,7 @@ List of cool collection ❄.
 - https://en.wikipedia.org/wiki/Helmholtz_pitch_notation
 - https://en.wikipedia.org/wiki/Guitar#Tuning
 - https://bloghocpiano.com/
+- https://learningmusic.ableton.com/vi/notes-and-scales/play-with-notes-and-scales.html
 
 **Other**: 
 - https://httpstatuses.com/
