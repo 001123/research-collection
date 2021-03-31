@@ -115,6 +115,7 @@ List of cool collection ❄.
 - https://toihocdohoa.com/blog/font-tieng-viet-4-viet-hoa-font-chu-unicode-tu-a-z/
 - https://www.pngegg.com/
 - https://whocanuse.com/
+- https://tonsky.me/blog/font-size/
 
 🤪 **Inspired**:
 - https://www.metalab.co/
