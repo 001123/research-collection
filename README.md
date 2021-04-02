@@ -116,6 +116,7 @@ List of cool collection ❄.
 - https://www.pngegg.com/
 - https://whocanuse.com/
 - https://tonsky.me/blog/font-size/
+- https://tympanus.net/Development/LineHoverStyles/
 
 🤪 **Inspired**:
 - https://www.metalab.co/
