@@ -166,6 +166,7 @@ List of cool collection ❄.
 
 🚨 **Security**: 
 - https://viblo.asia/p/ky-tu-zero-width-sat-thu-vo-hinh-nam-giua-doan-van-ban-thuan-vo-hai-L4x5xM7qKBM
+- https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino/related
 
 **Blog**: 
 - https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4
