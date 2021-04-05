@@ -82,6 +82,7 @@ List of cool collection ❄.
 - https://reactjsexample.com/make-your-react-components-aware-of-their-dimensions-and-position/
 - https://github.com/Wildhoney/ReactShadow
 - https://github.com/streamich/react-use/blob/master/docs/useClickAway.md
+- https://react-query.tanstack.com/overview
 
 📗 **VueJS common**:
 - https://github.com/vuejs/docs-next
