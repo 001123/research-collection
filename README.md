@@ -27,6 +27,7 @@ List of cool collection ❄.
 - http://abcnotation.com/
 - https://almanac.httparchive.org/en/2020/
 - https://landingpage.fyi/
+- https://blog.codinghorror.com/ascii-pronunciation-rules-for-programmers/
 
 🐢 **Git**:
 - https://gitmoji.carloscuesta.me
