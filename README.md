@@ -39,6 +39,7 @@ List of cool collection ❄.
 - https://enjoycss.com/
 - https://www.svgviewer.dev/
 - https://blitzjs.com/
+- https://supertokens.io/
 
 📱 **Windows app**:
 - https://github.com/jonaskohl/CapsLockIndicator
