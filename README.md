@@ -87,6 +87,7 @@ List of cool collection ❄.
 - https://github.com/Wildhoney/ReactShadow
 - https://github.com/streamich/react-use/blob/master/docs/useClickAway.md
 - https://react-query.tanstack.com/overview
+- https://github.com/timolins/react-hot-toast
 
 📗 **VueJS common**:
 - https://github.com/vuejs/docs-next
