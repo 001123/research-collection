@@ -140,6 +140,7 @@ List of cool collection ❄.
 
 🎭 **Icons**:
 - https://icon-icons.com/
+- https://akveo.github.io/eva-icons/#/
 
 **Life**:
 - https://au.reachout.com/articles/tips-for-getting-and-staying-motivated
