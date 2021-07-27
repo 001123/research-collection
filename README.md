@@ -71,6 +71,7 @@ List of cool collection ❄.
 - https://github.com/retejs/rete
 - https://www.skypack.dev/
 - https://jparticles.js.org/#/examples/snow
+- https://github.com/catdad/canvas-confetti
 
 🍏 💻 **Safari**:
 - https://stackoverflow.com/questions/2989263/disable-auto-zoom-in-input-text-tag-safari-on-iphone
