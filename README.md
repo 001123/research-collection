@@ -32,6 +32,7 @@ List of cool collection ❄.
 🐢 **Git**:
 - https://gitmoji.carloscuesta.me
 - https://ohshitgit.com/
+- https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index
 - https://viblo.asia/p/19-bi-kip-ban-co-the-dung-khi-pham-sai-lam-voi-git-dWrvwdmPRw38
 
 🌐 **Webapp**:
@@ -142,6 +143,7 @@ List of cool collection ❄.
 🎭 **Icons**:
 - https://icon-icons.com/
 - https://akveo.github.io/eva-icons/#/
+- https://icon-sets.iconify.design/
 
 **Life**:
 - https://au.reachout.com/articles/tips-for-getting-and-staying-motivated
