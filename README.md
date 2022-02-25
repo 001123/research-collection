@@ -245,5 +245,6 @@ List of cool collection ❄.
 - https://github.com/microsoft/Web-Dev-For-Beginners
 - https://xyproblem.info/
 - https://luatvietnam.vn/tinh-thue-thu-nhap-ca-nhan.html
+- https://github.com/Ren0503/design-pattern
 
 o
