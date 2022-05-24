@@ -28,6 +28,7 @@ List of cool collection ❄.
 - https://almanac.httparchive.org/en/2020/
 - https://landingpage.fyi/
 - https://blog.codinghorror.com/ascii-pronunciation-rules-for-programmers/
+- https://devina.io/
 
 🐢 **Git**:
 - https://gitmoji.carloscuesta.me
